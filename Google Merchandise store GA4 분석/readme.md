@@ -1,0 +1,1 @@
+GA4를 사용하여 구글 Merchandise store를 분석
